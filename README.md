@@ -1,2 +1,2 @@
 # MnistHandwrittenDigit-CNN
-![img](mnist2.png)
+![img](mnist2.jpg)
